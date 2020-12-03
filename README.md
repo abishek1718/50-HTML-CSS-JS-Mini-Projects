@@ -1,4 +1,4 @@
 # Card-Expander
-Project 1 Card Expander HTML,CSS,JS
+50 HTML,CSS & JS Mini Projects
 
-A simple Vanilla JavaScript Hover animation.
+50 Different Experiment Projects. Pure CSS & Vanilla JS
